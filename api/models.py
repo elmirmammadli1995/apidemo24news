@@ -8,22 +8,19 @@ class News:
 
 
 news1 = News(
-    "iphone 16 Pro Max",
-    "The iphone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities , and will include a new dedicated Capture button for improved camera functionality.",
-    "https://github.com/elmirmammadli1995/image/blob/main/iPhone%2016%20Pro%20Max.png?raw=true"
+    "The Nintendo Switch 2 arrives on June 5th for $449.99",
+    "After a reveal that was light on details, Nintendo has finally announced key information about the Switch 2: most notably, when it will launch. The Switch 2 will be available on June 5th, priced starting at $449.99. A separate bundle with the new Mario Kart World game will also be available for $499.99.",
+    "https://picsum.photos/800?random=1"
 )
 
 news2 = News(
-    "Airpods Pro 3",
-    "The Airpods Pro 3 are  expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
-    "https://github.com/elmirmammadli1995/image/blob/main/Apple%20Airpods%20Pro%203.jpg?raw=true"
-)
+   "Tesla’s sales plummet 13 percent as Musk backlash grows",
+   "Amid growing fallout over Elon Musk’s involvement in the Trump administration, Tesla’s sales fell a staggering 13 percent in the first quarter of 2025 year over year.",
+)   "https://picsum.photos/800?random=2"
 
 news3 = News(
-    "Apple Watch Ultra 3",
-    "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
-    "https://github.com/elmirmammadli1995/image/blob/main/Apple%20Watch%20Ultra%203.jpg?raw=true"
+    
 )
 
 
-new_list = [news1, news2, news3]
+new_list = [news1, news2, news3, news4, news5, news6, news7, news8, news9, news10, news11, news12, news13, news14, news15, news16,  news17,  news18,  news19,  news20,  news21, news22,  news23,  news24] 
