@@ -5,7 +5,7 @@ class News:
         self.tit = tit
         self.des = des
         self.img = img
-
+        
 
 news1 = News(
     "The Nintendo Switch 2 arrives on June 5th for $449.99",
@@ -28,7 +28,6 @@ news4 = News(
     "Microsoft’s miniature Windows 365 Link PC is available to buy now",
     "Microsoft’s business-oriented “Link” mini-desktop PC, which connects directly to the company’s Windows 365 cloud service, is now available to buy for $349.99 in the US and in several other countries. Windows 365 Link, which was announced last November, is a device that is more easily manageable by IT departments than a typical computer while also reducing the needs of hands on support.",
     "https://picsum.photos/800?random=4"
-
 )
 
 news5 = News(
@@ -150,8 +149,5 @@ news24 = News(
     "The card grading service PSA will no longer take direct submissions from outside the US in response to the Trump administration’s new far-reaching tariffs. In an update on Wednesday, PSA says it’s “reluctantly taking these measures to protect our international customers from significant tariff expenses.”",
     "https://picsum.photos/800?random=24"
 )
-
-
-
 
 new_list = [news1, news2, news3, news4, news5, news6, news7, news8, news9, news10, news11, news12, news13, news14, news15, news16,  news17,  news18,  news19,  news20,  news21, news22,  news23,  news24] 
