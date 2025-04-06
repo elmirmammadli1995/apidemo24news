@@ -117,7 +117,7 @@ news18 = News(
 
 news19 = News(
     "Sam Altman's AI-generated cricket jersey image gets Indians talking",
-    "India is a cricket-crazy nation, and it seems the AI chatbot ChatGPT hasn't missed that fact. So, when its founder Sam Altman fed it the prompt: "Sam Altman as a cricket player in anime style", the bot seems to have immediately generated an image of Altman wielding a bat in a bright blue India jersey.",
+    "India is a cricket-crazy nation, and it seems the AI chatbot ChatGPT hasn't missed that fact. So, when its founder Sam Altman fed it the prompt: 'Sam Altman as a cricket player in anime style', the bot seems to have immediately generated an image of Altman wielding a bat in a bright blue India jersey.",
     "https://picsum.photos/800?random=19"
 )
 
