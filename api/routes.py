@@ -1,11 +1,11 @@
 from flask import jsonify, request
 from .config import API_KEY
-from .models import new_list
+from .models import news_list
 
 
 def get_news():
 
-    news_data = [{"tit": news.tit, "des": news.des, "img": news.img} for news in new_list]
+    news_data = [{"tit": news.tit, "des": news.des, "img": news.img} for news in news_list]
 
     api_key = request.args.get("api_key")
 
